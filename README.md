@@ -16,7 +16,7 @@
   Budget Tracker allows the user to add expenses and deposits to their budget with or without an internet connection.  
 
   ## Demonstration
-  
+  ![demonstration](https://user-images.githubusercontent.com/65838273/102438295-1a7f5780-4070-11eb-997e-486944cddf15.gif)
   
   ## Installation
   To install the necessary dependencies, run the following command:
