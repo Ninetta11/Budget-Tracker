@@ -2,8 +2,8 @@
 Assignment 18 - PWA Homework: Online/Offline Budget Trackers
 
   ## Table of Contents
-  1. [Description] (#description)
-  2. [Demonstration] (#demonstration)
+  1. [Description](#description)
+  2. [Demonstration](#demonstration)
   3. [Installation](#installation)
   4. [Usage](#usage)
   5. [License](#license)
